@@ -2,16 +2,13 @@
 ## Welcome my learning journey with Code Fellows 102
 
 
-### Markdown
+### Grownth Mindset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A growth midset is the mindset that nothings going to set you back.  It may take you longer than expected, it may take you longer than others but you will get there. Understanding not to compare yourself to others but come to terms that you'll get to the finishline on your own time, one way or another. 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+## About Me
+# Reagan Roberts
 
 - Bulleted
 - List
