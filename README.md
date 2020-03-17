@@ -9,7 +9,9 @@ My name is Reagan Roberts born March 19, 1997.  I got a fullride scholarship to 
 
 ## How to stay in a Groth [Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 1. Set realistic goals FOR YOURSELF.
-  `code` Be willing to alter those goals if needed. `
+  ```
+  Be willing to alter those goals if needed.
+  ```
 2. Ask for Help.
 3. Be willing to step away and come back to an obstacle with a new attack plan instead of giving up.
 4. Block out time to practice.
