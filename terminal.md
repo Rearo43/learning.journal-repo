@@ -33,3 +33,4 @@ cd .. = go back one
 code . = will open git code file
 get pull origin master = pull any new commits
 git status = see if its been updated
+mkdir = create directory
