@@ -29,3 +29,7 @@
 * Case sensitive 
 * Put single quotes around anything that has a space in it or use a backslash and that will allow the space to not mean a separation of the two words. 
 * ls -a = list content of a directory, include hidden files
+cd .. = go back one
+code . = will open git code file
+get pull origin master = pull any new commits
+git status = see if its been updated
