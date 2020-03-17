@@ -7,3 +7,4 @@ My name is Reagan Roberts born March 19, 1997.  I got a fullride scholarship to 
 ## Table of Content
 * [Git Learning](https://rearo43.github.io/learning.journal-repo/git-learning.md)
 * [Markdown Learning](https://rearo43.github.io/learning.journal-repo/learn-markdown.md) 
+* [Terminal Learning](https://rearo43.github.io/learning.journal-repo/terminal.md)
