@@ -1,6 +1,14 @@
 # Markdown Simplified 
 
-Markdown really simply put is regular text with a few extra characters added in the mix like, ```#``` and ```*```.
+## Table of Content
+* [Home](https://rearo43.github.io/learning.journal-repo/)
+* [Git Learning](https://rearo43.github.io/learning.journal-repo/git-learning.md)
+* [Terminal Learning](https://rearo43.github.io/learning.journal-repo/terminal.md)
+* [Growth Mindset](https://rearo43.github.io/learning.journal-repo/growthmindset.md)
+
+
+
+> Markdown really simply put is regular text with a few extra characters added in the mix like, ```#``` and ```*```.
 Below you'll find some simple tips to help you learn Markdown Syntax.
 
 

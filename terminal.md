@@ -1,3 +1,12 @@
+# Terminal Learning
+
+## Table of Content
+* [Home](https://rearo43.github.io/learning.journal-repo/)
+* [Git Learning](https://rearo43.github.io/learning.journal-repo/git-learning.md)
+* [Markdown Learning](https://rearo43.github.io/learning.journal-repo/learn-markdown.md) 
+* [Growth Mindset](https://rearo43.github.io/learning.journal-repo/growthmindset.md)
+
+
 ##### The diffence between IDEs and Text Editors is IDEs are sort of an all in one package.  They IDEs are text editors plus file managers, and debuggers.
 > It's smart to read through what each has to offer before diving in a picking one that you'd like to work with
 
