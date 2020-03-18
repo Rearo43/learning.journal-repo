@@ -2,9 +2,9 @@
 
 ## Table of Content
 * [Home](https://rearo43.github.io/learning.journal-repo/)
-* [Git Learning](https://rearo43.github.io/learning.journal-repo/git-learning.md)
-* [Markdown Learning](https://rearo43.github.io/learning.journal-repo/learn-markdown.md) 
-* [Terminal Learning](https://rearo43.github.io/learning.journal-repo/terminal.md)
+* [Git Learning](https://rearo43.github.io/learning.journal-repo/git-learning)
+* [Markdown Learning](https://rearo43.github.io/learning.journal-repo/learn-markdown) 
+* [Terminal Learning](https://rearo43.github.io/learning.journal-repo/terminal)
 * [Structure and Layout Learning](https://rearo43.github.io/learning.journal-repo/structure-layout)
 
 
