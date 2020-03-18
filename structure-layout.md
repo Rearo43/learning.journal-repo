@@ -1,5 +1,12 @@
 # Structure and Layout
 
+ ## Table of Content
+* [Home](https://rearo43.github.io/learning.journal-repo/)
+* [Git Learning](https://rearo43.github.io/learning.journal-repo/git-learning)
+* [Markdown Learning](https://rearo43.github.io/learning.journal-repo/learn-markdown) 
+* [Terminal Learning](https://rearo43.github.io/learning.journal-repo/terminal)
+* [Growth Mindset](https://rearo43.github.io/learning.journal-repo/growthmindset)
+
 #### What Questions To Ask?
 
 * Who is going to be looking at your site?
