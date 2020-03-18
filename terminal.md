@@ -2,9 +2,10 @@
 
 ## Table of Content
 * [Home](https://rearo43.github.io/learning.journal-repo/)
-* [Git Learning](https://rearo43.github.io/learning.journal-repo/git-learning.md)
-* [Markdown Learning](https://rearo43.github.io/learning.journal-repo/learn-markdown.md) 
-* [Growth Mindset](https://rearo43.github.io/learning.journal-repo/growthmindset.md)
+* [Git Learning](https://rearo43.github.io/learning.journal-repo/git-learning)
+* [Markdown Learning](https://rearo43.github.io/learning.journal-repo/learn-markdown) 
+* [Growth Mindset](https://rearo43.github.io/learning.journal-repo/growthmindset)
+* [Structure and Layout Learning](https://rearo43.github.io/learning.journal-repo/structure-layout)
 
 
 ##### The diffence between IDEs and Text Editors is IDEs are sort of an all in one package.  They IDEs are text editors plus file managers, and debuggers.
