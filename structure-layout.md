@@ -13,8 +13,8 @@ What would make their user experience easier?`
 
 * What do you want your viewer to focus on?
 `Use images to draw attention to key spots on your site.
-Groupings of articles can portray what is related to what. What groupings of text are meant to correlate, and which don't.
+Groupings of articles can portray what is related to what. What groupings of text are meant to correlate, and which don't.`
 
 * How can I make my site look clean?
 `Use the same font in the same lines for example all the headings the same all the text the same.
-Make sure spacing is equal, while also remembering that asymmetry sometimes looks nice to the eye.
+Make sure spacing is equal, while also remembering that asymmetry sometimes looks nice to the eye.`
