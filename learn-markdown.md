@@ -5,6 +5,7 @@
 * [Git Learning](https://rearo43.github.io/learning.journal-repo/git-learning.md)
 * [Terminal Learning](https://rearo43.github.io/learning.journal-repo/terminal.md)
 * [Growth Mindset](https://rearo43.github.io/learning.journal-repo/growthmindset.md)
+* [Structure and Layout Learning](https://rearo43.github.io/learning.journal-repo/structure-layout)
 
 
 
